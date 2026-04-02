@@ -19,8 +19,10 @@ div {
 }
 
 img {
-  width: 120px;
+  width: 150px;
   height: auto;
+  display: block;
+  margin: 20px auto;
 }
 
 h1 {
