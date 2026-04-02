@@ -19,7 +19,8 @@ div {
 }
 
 img {
-  width: 150px;
+  width: 100px;
+  max-width: 100%;
   height: auto;
   display: block;
   margin: 20px auto;
